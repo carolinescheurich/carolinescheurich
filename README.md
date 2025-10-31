@@ -1,4 +1,4 @@
-# 👩🏼 Oie! Eu sou a Carol!
+## 👩🏼 Oie! Eu sou a Carol!
 
 Analista de Dados com formação e experiência prévia em Administração de Empresas. Após oito anos atuando na gestão de empresas, desenvolvi uma forte percepção sobre o impacto que uma análise de dados bem estruturada pode ter na tomada de decisões, geração de insights estratégicos e otimização de resultados. Essa descoberta despertou minha paixão pela Análise de Dados, impulsionando minha transição de carreira e meu foco em transformar dados em soluções que agregam valor real aos negócios.
 
