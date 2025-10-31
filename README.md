@@ -2,15 +2,13 @@
 
 Analista de Dados com formação e experiência prévia em Administração de Empresas. Após oito anos atuando na gestão de empresas, desenvolvi uma forte percepção sobre o impacto que uma análise de dados bem estruturada pode ter na tomada de decisões, geração de insights estratégicos e otimização de resultados. Essa descoberta despertou minha paixão pela Análise de Dados, impulsionando minha transição de carreira e meu foco em transformar dados em soluções que agregam valor real aos negócios.
 
----
 
-## 📚 Formação 
+## 🎓 Formação 
 
-- 🎓 **Bootcamp em Análise de Dados** – TripleTen  
-- 💼 **Administração de Empresas** - Universidade Federal de Santa Catarina
-- 📊 **Fundamentos do Power BI** - Fundação Bradesco 
+- **Bootcamp em Análise de Dados** – TripleTen  
+- **Administração de Empresas** - Universidade Federal de Santa Catarina
+- **Fundamentos do Power BI** - Fundação Bradesco 
 
----
 
 ## 🧠 Habilidades
 
@@ -31,7 +29,6 @@ Analista de Dados com formação e experiência prévia em Administração de Em
 
 Pensamento analítico | Atenção aos detalhes | Raciocínio lógico | Organização e gestão do tempo | Orientação a resultados | Aprendizado contínuo | Comunicação interpessoal | Trabalho em equipe | Proatividade | Adaptabilidade.
 
----
 
 ## 📫 Contato
 
