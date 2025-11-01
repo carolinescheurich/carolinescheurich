@@ -32,6 +32,8 @@ Pensamento analítico | Atenção aos detalhes | Raciocínio lógico | Organiza�
 
 ## 📫 Contato
 
-- 📍 Portugal
-- 📩 carol_scheurich@hotmail.com
-- 🔗  [LinkedIn](https://www.linkedin.com/in/carolinescheurich/)
+📍 Portugal
+ 
+carol_scheurich@hotmail.com
+ 
+[LinkedIn](https://www.linkedin.com/in/carolinescheurich/)
